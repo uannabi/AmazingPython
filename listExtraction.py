@@ -5,4 +5,5 @@ def chunks(lst: list, n: int):
 
 sample = ['a','b','c','d','e','f']
 print(sample)
+
 print(list(chunks(sample,3)))
