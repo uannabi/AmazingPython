@@ -1,3 +1,3 @@
 # AmazingPython
 
-All python tips and tricks 
+Python Cheat code and All possilbe coding hack
