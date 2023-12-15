@@ -1,6 +1,6 @@
 
 
-# Python Hacks, Tips, and Tricks
+# Python Hacks, Tips and Tricks
 Welcome to my repository of Python programming language hacks, tips, and tricks! This repository is a treasure trove for Python enthusiasts, whether you're a beginner looking to learn the ropes or an experienced developer seeking to refine your skills and knowledge.
 
 ## About This Repository
